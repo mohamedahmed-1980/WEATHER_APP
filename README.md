@@ -28,4 +28,4 @@ THEN I am presented with the last searched city forecast
 [link to the app](https://mohamedahmed-1980.github.io/WEATHER_APP/.)
 
 - screen shot
-  ![screen shot to the weather app](sc.png)
+  ![print screen](sc.png)
