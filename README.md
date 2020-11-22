@@ -1,4 +1,4 @@
-# 06 Server-Side APIs: Weather Dashboard
+# Weather Dashboard
 
 ## task
 
@@ -21,3 +21,11 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 WHEN I open the weather dashboard
 THEN I am presented with the last searched city forecast
+
+## links
+
+[repo link](https://github.com/mohamedahmed-1980/WEATHER_APP.git)
+[link to the app](https://mohamedahmed-1980.github.io/WEATHER_APP/.)
+
+- screen shot
+  ![screen shot to the weather app](sc.png)
