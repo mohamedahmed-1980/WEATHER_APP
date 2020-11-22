@@ -1,0 +1,51 @@
+/* #divOne,
+#divTow,
+#divThree,
+#divFour,
+#divFive {
+  background-color: darkblue;
+  width: 20%;
+  height: 30%;
+  margin: 3%;
+  color: rgb(233, 222, 222);
+} */
+.col-2 {
+  margin-left: 3.3%;
+  border: 0.1em solid black;
+  border-radius: 7px;
+  overflow: auto;
+  font-size: inherit;
+}
+dl,
+ol,
+ul {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: rgb(22, 21, 21);
+  border: 1px solid;
+  list-style: none;
+  text-align: left;
+  padding: 1%;
+  background-color: #ffffff;
+}
+li {
+  border-left: 1px solid black;
+}
+p {
+  margin-top: -3px;
+  margin-bottom: 1rem;
+  padding-left: 5%;
+  font-family: cursive;
+  font-weight: 700;
+}
+img {
+  z-index: 1;
+}
+#header .weather {
+  background-color: #ffffff;
+  margin-left: 20%;
+  margin-top: 1%;
+}
+#para4 span {
+  background-color: red;
+}
